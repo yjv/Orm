@@ -1,1 +1,5 @@
 /vendor
+/cov
+.buildpath
+.project
+.settings
